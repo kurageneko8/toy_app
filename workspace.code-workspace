@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../hello_app"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
